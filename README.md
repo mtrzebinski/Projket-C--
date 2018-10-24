@@ -1,5 +1,7 @@
 # Projket C++
-## Baza danych
+## Serwis internetowy
 ### Używane technologie:
-* Visual Studio 2017
-* MySQL
+* Qt5.11
+* phpMyAdmin
+### Opis:
+Stworzenie aplikacji imitującej system rejestracji oraz logowania do serwisu internetowego, opartego na interfejsie graficznym. Użytkownik będzie wpisywał swoje dane w odpowiednie pola, będą przekaznywane do bazy danych i następnie będzie miał możliwość zalogowania się na swoje utworzone konto.
